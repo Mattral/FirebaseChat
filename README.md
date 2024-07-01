@@ -1,6 +1,6 @@
 # Sermo
 
-A chat application built with NextJS, Firebase, and Pusher. Click [here](https://sermo-arnnied.vercel.app) to view the live demo.
+A chat application built with NextJS, Firebase, and Pusher. Click [here](#) to view the live demo.
 
 ## Getting Started
 
