@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Sermo</title>
-        <meta name="description" content="A basic chat app" />
+        <meta name="description" content="Demo chat app" />
       </Head>
       <Provider store={store}>
         <Component {...pageProps} />

@@ -10,7 +10,7 @@ const ChannelHeader = () => {
           SERMO
         </h1>
         <h2 className="p-2 font-semibold hidden md:block text-base text-white">
-          Straightforward and No BS Messaging
+          Straightforward Messaging
         </h2>
       </div>
       <div className="flex items-center overflow-hidden">
